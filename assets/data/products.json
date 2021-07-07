@@ -1,0 +1,86 @@
+[{
+  "_id": {
+    "$oid": "5f15d8852a025143f9593a7c"
+  },
+  "image": "https://i.pinimg.com/736x/cc/f1/64/ccf16407b27e30c2227d60b5d759446c.jpg",
+  "brand": "Fish",
+  "price": 2500,
+  "rating": 1,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Fish",
+  "description": "The Best Tilapia in the city",
+  "category": {
+    "$oid": "5f15d5cdcb4a6642bddc0f99"
+  },
+  "countInStock": 25,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d92ee520d44421ed8e9b"
+  },
+  "image": "",
+  "brand": "Matooke",
+  "price": 350.9,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Matooke",
+  "description": "Fresh Matooke from the garden",
+  "category": {
+    "$oid": "5f15d5b7cb4a6642bddc0fe8"
+  },
+  "countInStock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d964e520d44421ed8e9c"
+  },
+  "image": "",
+  "brand": "Matooke",
+  "price": 1350.9,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Matooke",
+  "description": "Fresh Matooke",
+  "category": {
+    "$oid": "5f15d5cdcb4a6642bddc0fe9"
+  },
+  "countInStock": 10,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15d5cdcb4a6642bddc0fe9"
+  },
+  "image": "https://cdn.freshfruitportal.com/2021/03/banana_56870893-scaled.jpg",
+  "brand": "Fruit",
+  "price": 490.9,
+  "rating": 5,
+  "numReviews": 0,
+  "isFeatured": true,
+  "name": "Banana",
+  "description": "Sweet Banana",
+  "category": {
+    "$oid": "5f15d5b7cb4a6642bddc0fe8"
+  },
+  "countInStock": 5,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "5f15da13e520d44421ed8e9e"
+  },
+  "image": "https://images.heb.com/is/image/HEBGrocery/000375146",
+  "brand": "Fruit",
+  "price": 1000,
+  "rating": 5,
+  "numReviews": null,
+  "isFeatured": true,
+  "name": "Apple",
+  "description": "Fresh Apple",
+  "category": {
+    "$oid": "5f15d5b2cb4a6642bddc0fe7"
+  },
+  "countInStock": 2,
+  "__v": 0
+}]
