@@ -106,7 +106,7 @@ const ProductContainer = (props) => {
     <>
       {loading == false ? (
         <Container>
- <Header searchBar rounded success >
+ <Header searchBar rounded success style={{ backgroundColor: '#15803d'}} >
    <Item success>
      <Icon name="ios-search" />
      <Input
