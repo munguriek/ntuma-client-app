@@ -72,11 +72,11 @@ const styles = StyleSheet.create({
         backgroundColor: 'white'
     },
     image: {
-        width: width / 2 - 20 - 10,
-        height: width / 2 - 20 - 30,
-        backgroundColor: 'transparent',
+        width: 200,
+        height: 100,
+        backgroundColor:'transparent',
         position: 'absolute',
-        top: -45
+        top: 10
     },
     card: {
         marginBottom: 10,
